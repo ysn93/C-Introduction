@@ -10,6 +10,7 @@ namespace C__Introduction
 	{
 		static void Main(string[] args)
 		{
-		}
+            Console.WriteLine("Hello World!");
+        }
 	}
 }
